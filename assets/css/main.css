@@ -2638,7 +2638,7 @@ input:focus:-ms-input-placeholder {
   -ms-transition: all 8s linear 0s;
   -o-transition: all 8s linear 0s;
   transition: all 8s linear 0s;
-  filter: grayscale(100%);
+  filter: grayscale(0%);
 }
 
 .swiper-slide-active .slide-bg {
