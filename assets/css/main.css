@@ -2528,7 +2528,7 @@ input:focus:-ms-input-placeholder {
   color: var(--clr-common-white);
 }
 .top_social a:is(.behance):hover {
-  background-color: #0057FF;
+  background-color: #C13584;
   color: var(--clr-common-white);
 }
 .top_social a:is(.youtube):hover {
@@ -7730,7 +7730,7 @@ h5.details_title {
   color: #55acee;
 }
 .social_share a:is(.behance):hover {
-  color: #0057FF;
+  color: #C13584;
 }
 .social_share a:is(.youtube):hover {
   color: #C3271A;
@@ -8967,7 +8967,7 @@ h5.details_title {
   color: var(--clr-common-white);
 }
 .member_social a:is(.behance):hover {
-  background-color: #0057FF;
+  background-color: #C13584;
   color: var(--clr-common-white);
 }
 .member_social a:is(.youtube):hover {
@@ -11971,7 +11971,7 @@ button.side-info-close:hover {
   color: #55acee;
 }
 .widget_social a:is(.behance):hover {
-  color: #0057FF;
+  color: #C13584;
 }
 .widget_social a:is(.youtube):hover {
   color: #C3271A;
@@ -12635,7 +12635,7 @@ button.side-info-close:hover {
   color: var(--clr-common-white);
 }
 .footer_social_2 a:is(.behance):hover {
-  background-color: #0057FF;
+  background-color: #C13584;
   color: var(--clr-common-white);
 }
 .footer_social_2 a:is(.youtube):hover {
